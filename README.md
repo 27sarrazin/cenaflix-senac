@@ -153,8 +153,3 @@ Se quiser, posso:
 - Gerar um arquivo pronto `.md` para você colar direto no GitHub.
 
 Só me avisar 😊
-```
-=======
-# cenaflix-senac
-Atividade desenvolvida no curso de tecnico em desenvolvimento de sistema, onde o objeto foi criar uma api rest para ser consumida no front-end
->>>>>>> ef88a216e8c1b8aceb97d9caac3f071a6b5e93ea
