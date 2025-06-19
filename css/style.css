@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(to right, #667eea, #764ba2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+}
+
+.form-container {
+    background-color: #ffffff20;
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    color: #fff;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+.form-control,
+.form-select {
+    background-color: #f8f9fa;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.form-control:focus,
+.form-select:focus {
+    box-shadow: 0 0 0 0.2rem rgba(102, 126, 234, 0.5);
+}
+
+.btn-primary {
+    background-color: #4c51bf;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #5a67d8;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.btn-outline-primary {
+    color: #cbd5e0; /* cor clara */
+    border-color: #cbd5e0;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: #4c51bf; /* azul mais forte */
+    border-color: #4c51bf;
+}
